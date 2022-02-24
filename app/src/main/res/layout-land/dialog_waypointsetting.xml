@@ -131,7 +131,7 @@
                 android:text="BackTo 1st" />
 
             <RadioButton
-                android:id="@+id/finishVisualLand"
+                android:id="@+id/finishVisualLanding"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="5pt"

@@ -31,7 +31,12 @@ public class VisualLanding {
     }
 
     public VisualLanding() {
+<<<<<<< HEAD
 
+=======
+        targetDetect = new TargetDetect(djiCodecManager);
+        visualLandingFlightControl = new VisualLandingFlightControl(djiCodecManager);
+>>>>>>> 5abb360e0d669fa6bb1abaff4f06a839373739fe
     }
 
     public void startVisualLanding() {
